@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Ibrahim<br><br>- 🔭 I have my degree in software engineering from UTD<br>- 📚 I'm currently looking for a back end development position to start my career in Programming.<br></p>
+<p align="left">My name is Ibrahim<br><br>- 🔭 I have my degree in software engineering from UTD<br>- 📚 I'm currently looking for a back end development position to start my career in development<br></p>
 
 ###
 
