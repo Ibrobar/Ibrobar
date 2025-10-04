@@ -13,7 +13,7 @@
 - 🔭 Recently contributed to a **Laravel web application serving 150,000+ users**, driving $500K+ in revenue  
 - 📱 Skilled in creating intuitive UIs with **Figma, Flutter, and React**  
 - ⚡ Background in **cloud, infrastructure, and IT systems**, strengthening my security-first approach  
-- 🌱 Currently seeking a **backend or full-stack developer role** to kickstart my professional career  
+- 🌱 Currently seeking a **backend or full-stack developer role**
 
 ---
 
@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
