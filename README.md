@@ -1,48 +1,27 @@
-<h1 align="center">Hey there, I'm Ibrahim 👋</h1>
+# Hey, I'm Ibrahim 👋
 
-###
+Software Engineer with a background in IT and a passion for building things that solve real problems.
 
-<h3 align="center">🚀 Software Engineer | Full-Stack Development | Problem Solver</h3>
+Currently at **Boycat**, where I built a full-stack **Track Price** feature for a Chrome extension — price monitoring, automated email alerts, DOM scraping, cron jobs, the whole pipeline.
 
----
+Previously shipped a Laravel web app serving **150,000+ users** and driving **$500K+ in revenue** at TNZ International.
 
-### 👨‍💻 About Me
+## 🛠 Tech Stack
 
-- 🎓 I hold a **B.S. in Software Engineering** from the University of Texas at Dallas  
-- 💻 Experienced in **full-stack development**, API design, and modern frameworks  
-- 🔭 Recently contributed to a **Laravel web application serving 150,000+ users**, driving $500K+ in revenue  
-- 📱 Skilled in creating intuitive UIs with **Figma, Flutter, and React**  
-- ⚡ Background in **cloud, infrastructure, and IT systems**, strengthening my security-first approach  
-- 🌱 Currently seeking a **backend or full-stack developer role**
+**Languages:** JavaScript, TypeScript, Java, C++, PHP, Python
 
----
+**Frontend:** React, React Native, Flutter, Tailwind CSS, HTML/CSS
 
-### 🛠 Languages & Tools
+**Backend:** Node.js, Laravel, Supabase Edge Functions, Deno
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+**Tools & Infra:** Supabase, Docker, Git, Figma, Linux, Azure AD
 
----
+## 🔭 What I'm Working On
 
-### 🌐 Connect With Me
+- Building a **Recipe Generator** app — React + Vite frontend, Express backend, local LLM via Ollama
+- Contributing to Boycat's Chrome extension ecosystem
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-barney" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 📫 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--barney-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ibrahim-barney/)
+[![Email](https://img.shields.io/badge/Email-ibrahimbarney@gmail.com-red?style=flat&logo=gmail)](mailto:ibrahimbarney@gmail.com)
