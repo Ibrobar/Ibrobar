@@ -2,7 +2,7 @@
 
 Software Engineer with a background in IT and a passion for building things that solve real problems.
 
-Currently at **Boycat**, where I built a full-stack **Track Price** feature for a Chrome extension — price monitoring, automated email alerts, DOM scraping, cron jobs, the whole pipeline.
+Currently at **Boycat**, where I built a full-stack **Track Price** feature for a Chrome extension. Price monitoring, automated email alerts, DOM scraping, cron jobs, the whole pipeline.
 
 Previously shipped a Laravel web app serving **150,000+ users** and driving **$500K+ in revenue** at TNZ International.
 
@@ -18,7 +18,7 @@ Previously shipped a Laravel web app serving **150,000+ users** and driving **$5
 
 ## 🔭 What I'm Working On
 
-- Building a **Recipe Generator** app — React + Vite frontend, Express backend, local LLM via Ollama
+- Building a **Recipe Generator** app with React + Vite frontend, Express backend, local LLM via Ollama
 - Contributing to Boycat's Chrome extension ecosystem
 
 ## 📫 Let's Connect
