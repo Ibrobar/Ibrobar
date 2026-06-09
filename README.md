@@ -18,8 +18,8 @@ Previously shipped a Laravel web app serving **150,000+ users** and driving **$5
 
 ## 🔭 What I'm Working On
 
-- Building a **Recipe Generator** app with React + Vite frontend, Express backend, local LLM via Ollama
-- Contributing to Boycat's Chrome extension ecosystem
+- Building **AutoKB**: connects to a helpdesk, uses RAG to analyze support tickets, and automatically detects what's missing from the knowledge base. Next.js, Supabase pgvector, Claude API.
+- Currently at **Boycat** (3M+ users), where I built a production event-driven **Track Price** system for their Chrome extension (10,000+ users). Zero manual intervention.
 
 ## 📫 Let's Connect
 
